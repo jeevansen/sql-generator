@@ -7,7 +7,7 @@ import openai
 from .schema import get_schema # importring get_schema class from the schema.py file
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 class DatabaseSchemaExtractor(View):
 
