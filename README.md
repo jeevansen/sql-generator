@@ -1,3 +1,2 @@
 SQL Generator
 Django
-React
