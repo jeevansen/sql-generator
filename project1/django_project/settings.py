@@ -147,7 +147,7 @@ CHATBOT_REDIRECT_URL = 'chatbot_response'
 SESSION_ENGINE = 'django.contrib.sessions.backends.db'
 SESSION_COOKIE_AGE = 1209600
 
-OPENAI_API_KEY = ""
+OPENAI_API_KEY = "Your_API_Key"
 
 
 CSRF_COOKIE_SECURE = False  # Set to True in production for secure cookies
