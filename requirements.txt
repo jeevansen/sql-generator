@@ -1,0 +1,7 @@
+django
+django-crispy-forms
+crispy-bootstrap4
+psycopg2
+openai==0.28.0
+Pillow
+bootstrap
